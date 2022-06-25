@@ -45,17 +45,6 @@ This is a web based application developed for trucks related based website in in
 ![Screenshot (234)](https://user-images.githubusercontent.com/104090204/175789324-187275cb-e4ed-4a34-a3b5-89a936e006c0.png)
 ![Screenshot (235)](https://user-images.githubusercontent.com/104090204/175789370-29101a90-bb3b-47bf-854e-88a0caadcb98.png)
 
-
-
-
-## Maintenance Manuals
-
-http://dtna.info/MMM2
-
-## Driver Manuals
-
-http://dtna.info/DMM2
-
 ### About Us -
 
 ![Screenshot (230)](https://user-images.githubusercontent.com/104090204/175788846-f14ebd91-c659-4401-9e96-9d1cd812113c.png)
@@ -68,7 +57,7 @@ http://dtna.info/DMM2
 
 ## Tech Stack 💻
 
-- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+ [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML, Google Analytics, and jQuery, according to G2 Stack
 
 
