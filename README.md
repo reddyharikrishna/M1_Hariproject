@@ -40,11 +40,13 @@ This is a web based application developed for trucks related based website in in
 -Bendix AutoVue® Lane Departure Warning 
 
 ## Screenshots
-[Truck photo](https://user-images.githubusercontent.com/104090204/175786264-73c34a09-8080-49cf-ba8e-749b7520b6eb.jpg)
-[M2 106 Tow Wrecker](https://user-images.githubusercontent.com/104090204/175786499-3c3a46bf-380e-43e4-bf43-6d09b7abc8e3.jpg)
-[Truck photo](https://user-images.githubusercontent.com/104090204/175786533-6acaba9c-d0d9-4c3f-af82-d3509e8d15e7.jpg)
-[Interior Photo](https://user-images.githubusercontent.com/104090204/175786700-e49490e5-5733-4186-8179-3936775e86ce.jpg)
-[Interior Image ](https://user-images.githubusercontent.com/104090204/175786710-36e175b6-0e72-4eb6-a6b1-0724a7c9a120.jpg)
+![Screenshot (232)](https://user-images.githubusercontent.com/104090204/175789267-09d17d2d-86cf-4043-bc84-ed9a13408dab.png)
+![Screenshot (233)](https://user-images.githubusercontent.com/104090204/175789299-7882bf45-b983-4d36-b9d4-9434f467c92b.png)
+![Screenshot (234)](https://user-images.githubusercontent.com/104090204/175789324-187275cb-e4ed-4a34-a3b5-89a936e006c0.png)
+![Screenshot (235)](https://user-images.githubusercontent.com/104090204/175789370-29101a90-bb3b-47bf-854e-88a0caadcb98.png)
+
+
+
 
 ## Maintenance Manuals
 
