@@ -60,7 +60,7 @@ http://dtna.info/DMM2
 
 ### Privacy policy -
 
-Screenshot[Privacy](https://user-images.githubusercontent.com/104090204/175787907-a243fed0-3c71-48f2-9a43-6d183af35140.png)
+[Privacy](https://user-images.githubusercontent.com/104090204/175787907-a243fed0-3c71-48f2-9a43-6d183af35140.png)
 
 
 ## Tech Stack 💻
