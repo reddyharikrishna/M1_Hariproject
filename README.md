@@ -1,4 +1,4 @@
-# Trucks
+# Trucks #
 
 This is a web based application developed for trucks related based website in india
 
@@ -57,7 +57,7 @@ This is a web based application developed for trucks related based website in in
 
 ## Tech Stack 💻
 
- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
 - HTML, Google Analytics, and jQuery, according to G2 Stack
 
 
